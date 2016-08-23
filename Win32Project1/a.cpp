@@ -11,3 +11,8 @@ void a()
 {
 	printf("a called");
 }
+
+void b()
+{
+	printf("b called");
+}
